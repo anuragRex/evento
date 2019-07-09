@@ -1,7 +1,7 @@
 {
     "env" : {
         "MONGO_USER" : "rexWeb",
-        "MONGO_PASS" : "CykHG7yCT8MxQi4G",
+        "MONGO_PASS" : "",
         "MONGO_DB"   : "evento-dev"
     }
 }
